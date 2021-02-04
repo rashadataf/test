@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: #222222;
+    color: bisque;
+}
+
+.container {
+    width: 100%;
+    padding: 20px;
+}
+
+.container .title {
+    font-size: 3rem;
+}
+
+.container .text {
+    margin-top: 20px;
+    font-size: 2.5rem;
+}
